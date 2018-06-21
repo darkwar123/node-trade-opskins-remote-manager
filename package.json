@@ -1,0 +1,30 @@
+{
+  "name": "trade-opskins-remote-manager",
+  "version": "1.0.0",
+  "description": "Trade Opskins Remote Manager for Node.js",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkwar123/node-trade-opskins-remote-manager.git"
+  },
+  "keywords": [
+    "opskins",
+    "expresstrade",
+    "trade",
+    "tradeoffers",
+    "manager"
+  ],
+  "author": "darkwar123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkwar123/node-trade-opskins-remote-manager/issues"
+  },
+  "homepage": "https://github.com/darkwar123/node-trade-opskins-remote-manager#readme",
+  "dependencies": {
+    "debug": "^2.6.9",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1",
+    "trade-opskins-manager": "^1.1.1"
+  }
+}
